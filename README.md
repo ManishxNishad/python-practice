@@ -9,6 +9,6 @@ This repository contains my Python learning journey.
 - Data Types
 - Input Function
 - Type Conversion
-- Class 7 - Operators Part 1
+- Operators Part 1
 
 More topics will be added as I progress.
