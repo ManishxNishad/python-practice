@@ -11,6 +11,7 @@ This repository contains my Python learning journey.
 - Type Conversion
 - Operators Part 1 (Arithmetic & Assignment Operators)
 - Operators Part 2 (Comparison Operators)
+- Operators Part 3 (Logical Operators)
 
 
 More topics will be added as I progress.
