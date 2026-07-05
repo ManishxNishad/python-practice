@@ -9,6 +9,6 @@ This repository contains my Python learning journey.
 - Data Types
 - Input Function
 - Type Conversion
-- Operators Part 1
-
+- Operators Part 1 (Arithmetic & Assignment Operators)
+- Operators Part 2 (Comparison Operators)
 More topics will be added as I progress.
