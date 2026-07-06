@@ -13,6 +13,7 @@ This repository contains my Python learning journey.
 - Operators Part 2 (Comparison Operators)
 - Operators Part 3 (Logical Operators)
 - Conditional Statements part 1 (If Statement)
+- Conditional Statements part 2 (Else Statement)
 
 
 More topics will be added as I progress.
